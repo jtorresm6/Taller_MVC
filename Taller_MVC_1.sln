@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaModelo_MVC1", "CapaMode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaControlador_MVC1", "CapaModelo_MVC\CapaControlador_MVC1.csproj", "{BCE6E4B4-4CAE-4CE6-917C-FE153ADADBE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaVista_MVC1", "CapaVista_MVC1\CapaVista_MVC1.csproj", "{B031766F-EE18-4B32-9F1E-3CE87AD7299F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejecucion_Taller_MVC_1", "Ejecucion_Taller_MVC_1\Ejecucion_Taller_MVC_1.csproj", "{285E1197-C6AB-4004-A805-B5E329E32C37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{BCE6E4B4-4CAE-4CE6-917C-FE153ADADBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCE6E4B4-4CAE-4CE6-917C-FE153ADADBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCE6E4B4-4CAE-4CE6-917C-FE153ADADBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B031766F-EE18-4B32-9F1E-3CE87AD7299F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B031766F-EE18-4B32-9F1E-3CE87AD7299F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B031766F-EE18-4B32-9F1E-3CE87AD7299F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B031766F-EE18-4B32-9F1E-3CE87AD7299F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{285E1197-C6AB-4004-A805-B5E329E32C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285E1197-C6AB-4004-A805-B5E329E32C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285E1197-C6AB-4004-A805-B5E329E32C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285E1197-C6AB-4004-A805-B5E329E32C37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
