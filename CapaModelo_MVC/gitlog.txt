@@ -1,0 +1,29 @@
+* commit 54ff871349fa43e1484977130b692d864f6d5c28 (HEAD -> master, origin/master, origin/HEAD, origin/Diseño_Capa_Vista_0901_23_1091, Diseño_Capa_Vista_0901_23_1091)
+| Author: 231091 - JOSE JAVIER TORRES MARTINEZ <jtorresm6@miumg.edu.gt>
+| Date:   Wed Sep 2 20:56:10 2026 -0600
+| 
+|     Agrega capa vista, formularios Y Ejecutable
+| 
+* commit 937771e98a73e73feee27c3bf1ab255f8f4ccf8c (origin/Diseño_Capa_Controlador_0901_23_1091, Diseño_Capa_Controlador_0901_23_1091)
+| Author: 231091 - JOSE JAVIER TORRES MARTINEZ <jtorresm6@miumg.edu.gt>
+| Date:   Wed Sep 2 20:40:25 2026 -0600
+| 
+|     Agrega capa controlador
+| 
+* commit b7193aa87b37ffd8b816792b195984a06231c2cb (origin/Diseño_Capa_Modelo_0901-23-1091, Diseño_Capa_Modelo_0901-23-1091)
+| Author: 231091 - JOSE JAVIER TORRES MARTINEZ <jtorresm6@miumg.edu.gt>
+| Date:   Wed Sep 2 20:35:08 2026 -0600
+| 
+|     Agrega capa modelo (Conexion y Sentencias)
+| 
+* commit ffed90bbe4e9c5f09f91c6981c9300c54d53d60f
+| Author: 231091 - JOSE JAVIER TORRES MARTINEZ <jtorresm6@miumg.edu.gt>
+| Date:   Wed Sep 2 20:25:33 2026 -0600
+| 
+|     Agregar archivos de proyecto.
+| 
+* commit cc082b026749f5becb302fdf08212791b319b352
+  Author: 231091 - JOSE JAVIER TORRES MARTINEZ <jtorresm6@miumg.edu.gt>
+  Date:   Wed Sep 2 20:25:31 2026 -0600
+  
+      Agregar .gitattributes y .gitignore.
