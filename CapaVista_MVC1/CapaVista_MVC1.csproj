@@ -31,8 +31,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Diseño_Capa_Controlador_0901-23-1091">
-      <HintPath>..\..\..\..\..\Documents\MVC\Practica 1\Taller_MVC_1\Diseño_Capa_Controlador_0901-23-1091\bin\Debug\Diseño_Capa_Controlador_0901-23-1091.dll</HintPath>
+    <Reference Include="CapaControlador_MVC1">
+      <HintPath>..\CapaControlador_MVC1\bin\Debug\CapaControlador_MVC1.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

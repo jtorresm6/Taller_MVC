@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Diseño_Capa_Controlador_0901_23_1091;
+using CapaControlador_MVC1;
 
 namespace CapaVista_MVC1
 {

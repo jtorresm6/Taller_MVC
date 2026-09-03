@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("CapaModelo_MVC")]
+[assembly: AssemblyTitle("CapaControlador_MVC1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP")]
-[assembly: AssemblyProduct("CapaModelo_MVC")]
+[assembly: AssemblyProduct("CapaControlador_MVC1")]
 [assembly: AssemblyCopyright("Copyright © HP 2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("bce6e4b4-4cae-4ce6-917c-fe153adadbe7")]
+[assembly: Guid("62ff1e34-763d-4e09-b284-c4c047ea4481")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //

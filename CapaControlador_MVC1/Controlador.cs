@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CapaModelo_MVC1;
 
-namespace CapaModelo_MVC
+namespace CapaControlador_MVC1
 {
     public class Controlador
     {

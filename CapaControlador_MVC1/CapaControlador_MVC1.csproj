@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BCE6E4B4-4CAE-4CE6-917C-FE153ADADBE7}</ProjectGuid>
+    <ProjectGuid>{62FF1E34-763D-4E09-B284-C4C047EA4481}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CapaModelo_MVC</RootNamespace>
-    <AssemblyName>CapaModelo_MVC</AssemblyName>
+    <RootNamespace>CapaControlador_MVC1</RootNamespace>
+    <AssemblyName>CapaControlador_MVC1</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CapaModelo_MVC1">
+      <HintPath>..\CapaModelo_MVC1\bin\Debug\CapaModelo_MVC1.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -43,12 +46,6 @@
   <ItemGroup>
     <Compile Include="Controlador.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\CapaModelo_MVC1\CapaModelo_MVC1.csproj">
-      <Project>{2445bb5b-2d00-4880-9d80-191fd0c3e9a4}</Project>
-      <Name>CapaModelo_MVC1</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
